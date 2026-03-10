@@ -9,7 +9,7 @@ public class HelloWorld extends JFrame {
     public HelloWorld() {
         setMinimumSize(new Dimension(300, 200));
         setContentPane(painelPrincipal);
-        lblMensagem3.setText("O Horta teve aqui");
+        lblMensagem3.setText("O Horta teve aquiasdsad");
         setContentPane(lblMensagem3);
         pack();
     }
